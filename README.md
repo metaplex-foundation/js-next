@@ -19,7 +19,7 @@ Please note that this SDK has been re-implemented from scratch and is still in a
 
 ## Installation
 ```sh
-npm install @metaplex-foundation/js @solana/web3.js
+npm install @metaplex-foundation/js @solana/web3.js@1
 ```
 
 🔥 **Pro Tip**: Check out our examples and starter kits on the ["JS Examples" repository](https://github.com/metaplex-foundation/js-examples).
